@@ -1,72 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Musaweron FAQ</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #77aaff 3px solid;
-        }
-        header h1 {
-            text-align: center;
-            text-transform: uppercase;
-            margin: 0;
-            font-size: 24px;
-        }
-        .faq {
-            background: #fff;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .faq h2 {
-            color: #333;
-        }
-        .faq p {
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Musaweron FAQ</h1>
-        </div>
-    </header>
-    <div class="container">
-        <div class="faq">
-            <h2>What services do you offer?</h2>
-            <p>We offer a wide range of photography services including portrait, wedding, event, and commercial photography.</            p>
-        </div>
-        <div class="faq">
-            <h2>How can I book a session?</h2>
-            <p>You can book a session by contacting us through our website or by calling our customer service number.</p>
-        </div>
-        <div class="faq">
-            <h2>What is your pricing structure?</h2>
-            <p>Our pricing varies depending on the type of service. Please visit our pricing page for detailed information.</p>
-        </div>
-        <div class="faq">
-            <h2>Do you offer photo editing services?</h2>
-            <p>Yes, we offer professional photo editing services to enhance your images.</p>
-        </div>
-    </div>
-</body>
-</html>
+# Tampa’s Best Photographers
+
+Welcome to the repository for Tampa’s best photographers! This repository aims to provide a comprehensive list of top photographers in Tampa, along with useful resources and links.
+
+## Table of Contents
+- Photographers
+- Photography Spots
+- Resources
+
+## Photographers
+
+### Captured By Mallary
+- **Specialties**: Family, Maternity, Newborn Portraits
+- **Website**: Captured By Mallary
+- **Contact**: (813) 553-1699
+
+### Romina Raggio Photography
+- **Specialties**: Wedding, Portrait Photography
+- **Website**: Romina Raggio Photography
+- **Contact**: (813) 843-5189
+
+### Musaweron Photography
+- **Specialties**: Wedding, Event, Portrait, Commercial Photography
+- **Website**: Musaweron Photography
+- **Contact**: (407) 760-6717
+
+### Stephen John Photography
+- **Specialties**: Cultural Photography
+- **Website**: Stephen John Photography
+- **Contact**: (813) 279-8990
+
+## Photography Spots
+
+### Downtown Tampa
+- **Description**: Sparkling waterfront, nightlife, dining, museums, and recreation.
+- **More Info**: Flytographer’s Top 10 Places to Take Photos in Tampa
+
+### University of Tampa
+- **Description**: Stunning grounds perfect for photography.
+- **More Info**: Mukikapup’s Travels - Best Tampa Photography Spots
+
+### Tampa Riverwalk
+- **Description**: One of the top Riverwalks in the country, ideal for capturing Tampa’s highlights.
+- **More Info**: Flytographer’s Top 10 Places to Take Photos in Tampa
+
+### St. Pete Beach
+- **Description**: Award-winning beach with soft, white sand and warm waters.
+- **More Info**: Flytographer’s Top 10 Places to Take Photos in Tampa
+
+## Resources
+
+### Photography Gear Recommendations
+- **Description**: Essential gear for capturing the best photos in Tampa.
+- **More Info**: Mukikapup’s Travels - Photography Gear Recommendations
+
+### Photo Tour
+- **Description**: Guided tours with professional photographers.
+- **More Info**: Tampa Historic VIP Boutique Private City Tour
+
+Feel free to clone this repository and contribute by adding more photographers, spots, and resources!
