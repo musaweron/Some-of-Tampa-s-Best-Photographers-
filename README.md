@@ -11,12 +11,12 @@ Welcome to the repository for Tampa’s best photographers! This repository aims
 
 ### Captured By Mallary
 - **Specialties**: Family, Maternity, Newborn Portraits
-- **Website**: Captured By Mallary
+- **Website**: <a href="https://capturedbymallary.com">Captured by Mallary
 - **Contact**: (813) 553-1699
 
 ### Romina Raggio Photography
 - **Specialties**: Wedding, Portrait Photography
-- **Website**: Romina Raggio Photography
+- **Website**: <a href="https://www.rominaraggio.com/">Romina Raggio Photography
 - **Contact**: (813) 843-5189
 
 ### Musaweron Photography
@@ -26,7 +26,7 @@ Welcome to the repository for Tampa’s best photographers! This repository aims
 
 ### Stephen John Photography
 - **Specialties**: Cultural Photography
-- **Website**: Stephen John Photography
+- **Website**: <a href="https://theculturalphotographer.net/">Stephen John Photography
 - **Contact**: (813) 279-8990
 
 ## Photography Spots
