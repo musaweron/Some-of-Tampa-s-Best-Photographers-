@@ -57,24 +57,4 @@ Welcome to the repository for Tampa’s best photographers! This repository aims
 - **Description**: Guided tours with professional photographers.
 - **More Info**: Tampa Historic VIP Boutique Private City Tour
 
-- # Tampa's Best Photographers
-
-## Photographers List
-
-1. **John Doe Photography**
-   - Website: John Doe Photography
-
-2. **Jane Smith Photography**
-   - Website: Jane Smith Photography
-
-3. **Alex Johnson Photography**
-   - Website: Alex Johnson Photography
-
-4. **Emily Davis Photography**
-   - Website: Emily Davis Photography
-
-5. **Michael Brown Photography**
-   - Website: Michael Brown Photography
-
-
 Feel free to clone this repository and contribute by adding more photographers, spots, and resources!
